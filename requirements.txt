@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama  # 新的Ollama集成
+agno
+dashvector
+pydantic>=2.0  # 使用Pydantic V2
+python-dotenv
+PyPDF2
+aiohttp
+aiofiles
+requests
+numpy
+scikit-learn  # 智能语义分块
